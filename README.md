@@ -1,7 +1,7 @@
 # Chess for the terminal
 
-A compact, text-based chess game for Windows. Play over the board with another
-person or against Stockfish. The game validates legal moves, accepts standard
+A simple compact, text-based chess game for Windows. With code by the Stockfish authors. Visual Studio Code and its Copilot wrote the additional code. Thanks to JC and them.
+Play over the board with another person or against Stockfish. The game validates legal moves, accepts standard
 algebraic notation (for example `Nf3`) and coordinate moves (`g1f3`), and
 supports castling, en passant, and promotion.
 
@@ -63,3 +63,21 @@ game is playable without Stockfish in human-versus-human mode.
 
 The Stockfish license is included as `Copying.txt` both in the project and in
 the portable release.
+
+### How to to play ###
+
+Unix/Linux:
+
+Just run it with ./Chess.exe
+
+Windows:
+
+Just run the Chess.exe
+
+### Endgame libary ###
+
+If you want, you can integrate a 5 pieces endgame library. Just download the files from here:
+
+https://kdrive.infomaniak.com/app/share/1353016/e0d24252-8766-4af6-9a3e-4739c20c1dbd
+
+and put them in the "Syzygy345" Folder.
