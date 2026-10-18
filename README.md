@@ -66,6 +66,8 @@ the portable release.
 
 ### How to to play ###
 
+Unzip the "Chess-portable.zip" wherever you want.
+
 Unix/Linux:
 
 Just run it with ./Chess.exe
@@ -80,4 +82,4 @@ If you want, you can integrate a 5 pieces endgame library. Just download the fil
 
 https://kdrive.infomaniak.com/app/share/1353016/e0d24252-8766-4af6-9a3e-4739c20c1dbd
 
-and put them in the "Syzygy345" Folder.
+and put them in the "Syzygy345" folder of your extracted Chess-portable.zip.
