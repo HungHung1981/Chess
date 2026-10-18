@@ -12,6 +12,11 @@ src/universal/network_dump.inc
 src/stockfish*
 src/-lstdc++.res
 
+# Terminal game build output
+/build/
+/dist/
+/Chess-portable.zip
+
 # Neural network for the NNUE evaluation
 **/*.nnue
 
